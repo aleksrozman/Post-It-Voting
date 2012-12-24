@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<post-it>
+<voteList>
+<voteOpts name="Round1">
+<option name="Blue">1</option>
+<option name="Green">2</option>
+<option name="Red">3</option>
+<option name="Yellow">4</option>
+</voteOpts>
+</voteList>
+<voteResults>
+<vote name="Round1">
+<voter name="Me">
+<choice>1</choice>
+<choice>2</choice>
+<choice>3</choice>
+</voter>
+<voter name="You">
+<choice>1</choice>
+<choice>2</choice>
+</voter>
+</vote>
+</voteResults>
+</post-it>
